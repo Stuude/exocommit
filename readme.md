@@ -1,7 +1,6 @@
 Definition de commit :
 
-La commande git commit permet de suggerer une modification ou un ajout.
-Hélas j'ai beau regarder la définition wikipédia je ne comprends pas vraiment donc c'est peut-être faux.
+Le Commit est une sorte de message qui accompagne une modification et la valide dans la copie locale de travail en générant un identifiant unique.
 
 Définition de add :
 
