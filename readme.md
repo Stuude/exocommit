@@ -1,6 +1,6 @@
 Definition de commit :
 
-Le Commit est une sorte de message qui accompagne une modification et la valide dans la copie locale de travail en générant un identifiant unique.
+Le Commit est une sorte de message qui accompagne une modification et la valide dans la copie locale de travail en générant un identifiant unique. Il sert notamment à décrire le changement effectué.
 
 Définition de add :
 
